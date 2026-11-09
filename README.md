@@ -1,4 +1,4 @@
-# 📈 Analyse Économétrique des Prix de l'Immobilier
+# Analyse Économétrique des Prix de l'Immobilier
 
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Econometrics-000000?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Contexte & Objectif
+## Contexte & Objectif
 
 Ce projet a pour but de comprendre les mécanismes de formation des prix immobiliers (en milliers d'euros) à travers une démarche économétrique complète, allant du nettoyage des données jusqu'à la prédiction via des modèles de Machine Learning.
 
@@ -16,7 +16,7 @@ L'analyse repose sur un échantillon final de **150 transactions** (obtenu aprè
 
 ---
 
-## ⚙️ Méthodologie & Modélisation
+## Méthodologie & Modélisation
 
 Le projet suit un pipeline analytique rigoureux, détaillé dans le fichier `projet.ipynb` et le rapport final :
 
@@ -42,7 +42,7 @@ Pour garantir la validité de notre modèle, nous avons procédé aux tests suiv
 
 ---
 
-## 📊 Étude de Cas : Prédiction Immobilière
+# Étude de Cas : Prédiction Immobilière
 
 Application du modèle global (2015-2023) pour estimer la valeur d'un bien spécifique avec les caractéristiques suivantes :
 * **Surface :** 120 m²
@@ -57,7 +57,7 @@ Application du modèle global (2015-2023) pour estimer la valeur d'un bien spéc
 
 ---
 
-## 💻 Stack Technique & Librairies
+## Stack Technique & Librairies
 
 Le projet a été entièrement développé en **Python 3.10**.
 
@@ -69,7 +69,7 @@ Le projet a été entièrement développé en **Python 3.10**.
 
 ---
 
-## 📂 Structure du Répertoire
+## Structure du Répertoire
 
 * `projet.ipynb` : Notebook Python contenant l'intégralité du code (nettoyage, régressions, tests, machine learning).
 * `Rapport.pdf` : Rapport académique détaillé des résultats économétriques.
